@@ -9,7 +9,13 @@ The Book Manager App is a Flutter application that allows users to search for bo
 
 | Home Screen | Search Results | Book Details | Favorites |
 |-------------|----------------|--------------|-----------|
-| ![Home Screen](screenshots/home_screen.png) | ![Search Results](screenshots/search_results.png) | ![Book Details](screenshots/book_details.png) | ![Favorites](screenshots/favorites.png) |
+| ![Home Screen](screenshots/app_banner.png) | ![Search Results](screenshots/search_results.png) | ![Book Details](screenshots/book_details.png) | ![Favorites](screenshots/favorites.png) |
+
+
+
+pour mois j'ai travail avec chrom alore pour stocker les books dans le local stockage
+![localstockage](screenshots/localstockage.png) 
+
 
 ## Features
 - Search for books using the Google Books API.
