@@ -1,0 +1,22 @@
+name: book_manager_app
+description: A Flutter application for managing favorite books using Google Books API and SQLite.
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.4.0
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  sqflite_common_ffi: ^2.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
